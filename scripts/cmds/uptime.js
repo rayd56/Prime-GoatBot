@@ -3,6 +3,7 @@ const os = require("os");
 module.exports = {
   config: {
     name: "uptime",
+    aliases: ["up", "upt"],
     version: "5.1",
     author: "Alamin",
     role: 0,
