@@ -21,10 +21,10 @@ module.exports = {
 
   onStart: async function ({ message }) {
 
-    const ownerName = "STARBOY APHELION";
+    const ownerName = "Rayd Efoua😎";
     const ownerAge = "N/A";
-    const ownerFB = "https://facebook.com/star.boy.aphelion";
-    const ownerNumber = "+88019XXXXXXX";
+    const ownerFB = "https://www.facebook.com/efouarayd56";
+    const ownerNumber = "+237654920767";
     const status = "Active";
 
     const botName = global.GoatBot?.config?.nickNameBot || "GoatBot";
